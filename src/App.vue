@@ -1,12 +1,19 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
+    <MainNav/>
     <router-view/>
   </div>
 </template>
+
+<script>
+import MainNav from './components/MainNav.vue';
+
+export default {
+  components: {
+    MainNav,
+  },
+};
+</script>
 
 <style>
 #app {
@@ -17,16 +24,30 @@
   color: #2c3e50;
 }
 
-#nav {
-  padding: 30px;
+.card-shadow {
+  box-shadow: 0.1px 0.1px 3px #242424;
 }
 
-#nav a {
-  font-weight: bold;
-  color: #2c3e50;
+.btn-custom {
+  color: white;
+  background-color: #127196;
+  border-color: #127196;
+}
+.btn-custom:hover {
+  color: white;
+  background-color: #085675;
+  border-color: #085675;
 }
 
-#nav a.router-link-exact-active {
-  color: #42b983;
+.bg {
+  background-color: #f0f0f0;
+}
+
+.ext-link {
+  width: 50px;
+  transition: all 0.1s ease-out;
+}
+.ext-link:hover {
+  transform: scale(1.2);
 }
 </style>
