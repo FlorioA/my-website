@@ -42,7 +42,7 @@
       <div data-aos="zoom-in">
         <h2 class="title-light text-left">Site vitrine</h2>
         <p class="text-left">
-          Pour m'entraîner, j'ai réalisé le site vitrine d'une pièce de théâtre joué
+          Pour m'entraîner, j'ai réalisé le site vitrine d'une pièce de théâtre jouée
           par la Compagnie des Autres.
         </p>
         <p><a href="https://theater-project-cc9e4.web.app/" target="_blank">Visiter le site</a></p>
