@@ -5,6 +5,7 @@
       <div class="mx-auto my-auto">
         <h2 data-aos="zoom-in">Adrien Florio</h2>
         <p data-aos="zoom-in">Développeur Web</p>
+        <a id="link_resume" href="#bg_resume"><font-awesome-icon icon="sort-down" /></a>
       </div>
     </div>
 
@@ -75,5 +76,15 @@ h2 {
 p {
   font-size: 2rem;
   font-style: italic;
+}
+
+#link_resume {
+  color: white;
+  font-size: 5rem;
+  transition: all .5s ease-out;
+}
+#link_resume:hover {
+  color: #c7dcff;
+  font-size: 7rem;
 }
 </style>

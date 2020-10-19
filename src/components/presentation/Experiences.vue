@@ -197,7 +197,7 @@
                 <h4 class="card-title ml-3">Intérimaire</h4>
                 <h5 class="card-subtitle mb-2 text-muted">Firplast - Lyon</h5>
                 <p class="card-text">
-                  - Ventre de sapins, emballage, gestion des stocks et de la vitrine <br>
+                  - Vente de sapins, emballage, gestion des stocks et de la vitrine <br>
                   - Chargement / déchargement de camions
                 </p>
               </div>

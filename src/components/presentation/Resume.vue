@@ -20,8 +20,8 @@
           courant de l'avancée des différentes technos.
           Dès que j'en ai l'occasion, je me lance dans des tutos
           pour apprendre les bases de nouveaux frameworks ou langages.
-          Mon passé m'a permis de me forger au travail en équipe,
-          à la direction et au suivi de projet,
+          J'ai de l'expérience dans le travail en équipe,
+          la direction et le suivi de projet,
           et je n'ai qu'un objectif : retrouver cette dynamique au
           sein d'un projet de développement web.
 
